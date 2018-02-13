@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514018693 source:c:\users\stone\desktop\lastpenalty\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+
+976645372 c:\program files\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1515131930 source:c:\users\saieed ibna abdullah\desktop\lastpenalty\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+
